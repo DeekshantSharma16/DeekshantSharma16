@@ -27,11 +27,10 @@ Email Me 👉 ✉️ **deekshantsharma6@gmail.com** For Collaboration/Project or
 ![](https://github-profile-trophy.vercel.app/?username=DeekshantSharma16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Success is not to be pursued; it is to be attracted by the person you become.
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DeekshantSharma16&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+Success is not to be pursued; it is to be attracted by the person you become.
 ---
 [![](https://komarev.com/ghpvc/?username=DeekshantSharma16&icon=4&color=13)](https://visitcount.itsvg.in)
 
